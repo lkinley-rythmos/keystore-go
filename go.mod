@@ -1,4 +1,4 @@
-module github.com/pavel-v-chernykh/keystore-go
+module github.com/pavel-v-chernykh/keystore-go/v2
 
 go 1.13
 
